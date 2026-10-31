@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+id btnApply
+id btnLaunchFFM
+id btnShizuku
+id r1
+id r2
+id r3
+id r4
+id radioPresets
+id seekBarDpi
+id tvDpiValue
+id tvShizukuStatus
+id tvStatus
+layout activity_main
+string app_name
+style Theme.DPIConfig
